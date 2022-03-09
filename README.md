@@ -1,7 +1,7 @@
 # thmproj_mfuce_blackjack21LabVIEW
 #### Creating (Not) so simple Blackjack21 Game using LabVIEW - NI (Block Diagram Programming)
 ##### SEE HOW IT WORKS: https://youtu.be/KqE6MkYGUA0 << I BEG YOU PARDON FOR MY ENGLISH :(
-##### EDUCATIONAL PURPOSE ONLY :)
+##### THIS PROJECT IS FOR EDUCATIONAL PURPOSE ONLY :)
 
 ### ABOUT ME
 ##### Hi, I'm from Mae Fah Luang University, and I will be graduating soon :)
